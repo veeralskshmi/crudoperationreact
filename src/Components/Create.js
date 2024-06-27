@@ -45,7 +45,7 @@ function Create() {
         label="Agree the Terms & conditions"/>
         </Form.Field><br />
 
-        <button onClick={postData}>Submit</button>
+        <Button onClick={postData}>Submit</Button>
 
 
     </Form>
