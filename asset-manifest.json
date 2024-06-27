@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/crudoperationreact/static/css/main.108323a1.css",
+    "main.js": "/crudoperationreact/static/js/main.69aa2571.js",
+    "static/js/453.3a2b884d.chunk.js": "/crudoperationreact/static/js/453.3a2b884d.chunk.js",
+    "index.html": "/crudoperationreact/index.html",
+    "main.108323a1.css.map": "/crudoperationreact/static/css/main.108323a1.css.map",
+    "main.69aa2571.js.map": "/crudoperationreact/static/js/main.69aa2571.js.map",
+    "453.3a2b884d.chunk.js.map": "/crudoperationreact/static/js/453.3a2b884d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.108323a1.css",
+    "static/js/main.69aa2571.js"
+  ]
+}
